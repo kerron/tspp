@@ -11,6 +11,7 @@ export const greater = <T>(a: T, b: T): boolean => a > b;
  * @param b rhs value
  * @returns boolean
  */
+export const lesser = <T>(a: T, b: T): boolean => a < b;
 /**
  * Computes the difference between the second and first of each adjacent pair of elements
  * of the range [first, last] and returns the result.
