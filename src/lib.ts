@@ -1,4 +1,17 @@
 /**
+ * compare lhs value to rhs value and return true if lhs is greater
+ * @param a lhs value
+ * @param b rhs value
+ * @returns boolean
+ */
+export const greater = <T>(a: T, b: T): boolean => a > b;
+/**
+ * compare lhs value to rhs value and return true if lhs is lesser
+ * @param a lhs value
+ * @param b rhs value
+ * @returns boolean
+ */
+/**
  * Computes the difference between the second and first of each adjacent pair of elements
  * of the range [first, last] and returns the result.
  * @param first start of range
