@@ -2,5 +2,27 @@
   "devDependencies": {
     "@commitlint/cli": "^16.2.1",
     "@commitlint/config-conventional": "^16.2.1"
-  }
+  },
+  "name": "tspp",
+  "description": "Algorithm in the c++ std library written in Typescript",
+  "version": "0.0.1",
+  "main": "src/lib.ts",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerron/tspp.git"
+  },
+  "keywords": [
+    "javascript",
+    "c++",
+    "algorithms"
+  ],
+  "author": "@kerron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerron/tspp/issues"
+  },
+  "homepage": "https://github.com/kerron/tspp#readme"
 }
