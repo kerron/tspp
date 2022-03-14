@@ -1,3 +1,3 @@
-# jspp
+# tspp
 
-Algorithm in the c++ std library written in Typescript
+Algorithms in the c++ std library written in Typescript
