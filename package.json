@@ -10,7 +10,7 @@
   },
   "name": "tspp",
   "description": "Algorithm in the c++ std library written in Typescript",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "src/index.ts",
   "scripts": {
     "test": "jest"
