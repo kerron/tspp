@@ -9,7 +9,7 @@
   "version": "0.0.1",
   "main": "src/lib.ts",
   "scripts": {
-    "test": "npm run tests"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
