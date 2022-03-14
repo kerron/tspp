@@ -30,6 +30,9 @@
     "strictPropertyInitialization": true,
     "suppressExcessPropertyErrors": false,
     "suppressImplicitAnyIndexErrors": false,
-    "useDefineForClassFields": false
+    "useDefineForClassFields": false,
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true
   }
 }
