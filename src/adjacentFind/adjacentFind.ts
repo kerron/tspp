@@ -1,4 +1,4 @@
-export const adjacent_find = (
+export const adjacentFind = (
   first: number,
   last: number,
   list: number[],

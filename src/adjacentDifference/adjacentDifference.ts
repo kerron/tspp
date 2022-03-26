@@ -7,7 +7,7 @@
  * @param operation optional binary function that will be applied to elements
  * @returns array of item
  */
-export const adjacent_difference = (
+export const adjacentDifference = (
   first: number,
   last: number,
   v: number[],
